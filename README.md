@@ -65,8 +65,8 @@ The metrics to be tested could include:
 * Size of the Cylinders - Independent variable.
 
 ### 3. Defining the Null (Ho) and Alternate (Ha) Hypotheses:
-Ho - MechaCar's performance (HorsePower) not correctly based on key factores (dependent variable).
-Ha - MechaCar's performance (HorsePower) corerctly based on key factors.
+* Ho - MechaCar's performance (HorsePower) not correctly based on key factores (dependent variable).
+* Ha - MechaCar's performance (HorsePower) corerctly based on key factors.
 
 ### 4. Statistical Tests:
 For the statistical analysis tests we would need to use `Multiple Linear Regression` model.
